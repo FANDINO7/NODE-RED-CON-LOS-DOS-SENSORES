@@ -177,7 +177,7 @@ long t; //timepo que demora en llegar el eco
 ![](https://github.com/FANDINO7/NODE-RED-CON-LOS-DOS-SENSORES/blob/main/librerias%20a%20utilizar.png?raw=true)
 
 **diagrama de alambarado conexion electrcia**
-![](https://github.com/FANDINO7/NODE-RED-CON-LOS-DOS-SENSORES/blob/main/diagrama%20de%20alambrado.png?raw=true)
+![](https://github.com/FANDINO7/NODE-RED-CON-LOS-DOS-SENSORES/blob/main/ALAMBRADO001.png?raw=true)
 
 
 
