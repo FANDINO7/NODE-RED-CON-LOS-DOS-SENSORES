@@ -207,3 +207,6 @@ msg.payload = msg.payload.DISTANCIA;
 msg.topic = "DISTANCIA";
 return msg;
 ```
+
+!![](https://github.com/FANDINO7/NODE-RED-CON-LOS-DOS-SENSORES/blob/main/ramificacion%20en%20nodered.png?raw=true)
+
