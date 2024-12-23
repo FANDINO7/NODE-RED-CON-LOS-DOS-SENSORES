@@ -208,5 +208,21 @@ msg.topic = "DISTANCIA";
 return msg;
 ```
 
+
+# ramificacion en nodeRED
+
+
 !![](https://github.com/FANDINO7/NODE-RED-CON-LOS-DOS-SENSORES/blob/main/ramificacion%20en%20nodered.png?raw=true)
+
+
+**operación**
+Iniciar simulador WOKWI.
+Seleccionamos DEPLOY en node-red para iniciar la comunicacion.
+Seleccionamos DASHBOARD en node-red.
+Abrimos el localhost en el dashboard.
+Visualizamos las graficas como los parametros.
+Resultados
+
+
+**DASHBOARD**
 
