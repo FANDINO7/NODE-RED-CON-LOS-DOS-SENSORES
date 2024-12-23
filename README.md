@@ -174,7 +174,7 @@ long t; //timepo que demora en llegar el eco
 ```
 
 **se deben descargar algunas librerias extra para al funcinamineto**
-![]()
+![](https://github.com/FANDINO7/NODE-RED-CON-LOS-DOS-SENSORES/blob/main/librerias%20a%20utilizar.png?raw=true)
 
 **diagrama de alambarado conexion electrcia**
 ![]()
