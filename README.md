@@ -174,4 +174,28 @@ long t; //timepo que demora en llegar el eco
 ```
 
 **se deben descargar algunas librerias extra para al funcinamineto**
+![]()
 
+**diagrama de alambarado conexion electrcia**
+![]()
+
+
+
+
+**se añadiran  tres bloques fuencion para el monitoreo**
+ojo se configara los codigos de fuencionamineto 
+
+```
+
+```
+
+
+```
+
+```
+
+
+
+```
+
+```
