@@ -226,3 +226,8 @@ Resultados
 
 **DASHBOARD**
 
+![](https://github.com/FANDINO7/NODE-RED-CON-LOS-DOS-SENSORES/blob/main/DASHBOARD.png?raw=true)
+
+
+**Realizado por**
+ALBERTO FANDIÑO 
