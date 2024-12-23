@@ -173,7 +173,7 @@ long t; //timepo que demora en llegar el eco
 }
 ```
 
-**se deben descargar algunas librerias extra para al funcinamineto**
+**se deben descargar algunas librerias extra para al funcionamiento**
 ![](https://github.com/FANDINO7/NODE-RED-CON-LOS-DOS-SENSORES/blob/main/librerias%20a%20utilizar.png?raw=true)
 
 **diagrama de alambarado conexion electrcia**
@@ -182,20 +182,28 @@ long t; //timepo que demora en llegar el eco
 
 
 
-**se añadiran  tres bloques fuencion para el monitoreo**
-ojo se configara los codigos de fuencionamineto 
+**se añadiran  tres bloques funcion para el monitoreo**
+ojo se configara los codigos para funcionamiento 
+
+**temperatura**
+```
+msg.payload = msg.payload.TEMPERATURA;
+msg.topic = "TEMPERATURA";
+return msg;
+```
+
+**humedad**
+```
+msg.payload = msg.payload.HUMEDAD;
+msg.topic = "HUMEDAD";
+return msg;
 
 ```
 
-```
-
-
-```
+**distancia**
 
 ```
-
-
-
-```
-
+msg.payload = msg.payload.DISTANCIA;
+msg.topic = "DISTANCIA";
+return msg;
 ```
